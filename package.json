@@ -1,0 +1,23 @@
+{
+  "name": "usagi",
+  "version": "1.0.0",
+  "description": "An collection of usefull JS/TS tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AeroBytesNL/Usagi.git"
+  },
+  "author": "AeroBytes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AeroBytesNL/Usagi/issues"
+  },
+  "homepage": "https://github.com/AeroBytesNL/Usagi#readme",
+  "dependencies": {
+    "@clickhouse/client": "^1.11.1",
+    "mysql2": "^3.14.1"
+  }
+}
