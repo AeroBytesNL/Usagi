@@ -1,10 +1,12 @@
 {
   "name": "@aerobytes/usagi",
   "version": "1.0.0",
-  "description": "An collection of usefull JS/TS tools",
-  "main": "index.js",
+  "description": "A collection of useful JS/TS tools",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -15,6 +17,7 @@
     "mysql2": "^3.14.1"
   },
   "devDependencies": {
-    "@types/node": "^22.15.19"
+    "@types/node": "^22.15.19",
+    "typescript": "^5.8.3"
   }
 }
