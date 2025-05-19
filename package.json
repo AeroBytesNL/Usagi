@@ -1,5 +1,5 @@
 {
-  "name": "usagi",
+  "name": "@aerobytes/usagi",
   "version": "1.0.0",
   "description": "An collection of usefull JS/TS tools",
   "main": "index.js",
