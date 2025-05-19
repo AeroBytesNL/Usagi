@@ -9,8 +9,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AeroBytesNL/Usagi.git"
-  }, "dependencies": {
-    "@clickhouse/client": "^1.11.1",
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
     "mysql2": "^3.14.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.19"
   }
 }
