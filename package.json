@@ -9,14 +9,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AeroBytesNL/Usagi.git"
-  },
-  "author": "AeroBytes",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AeroBytesNL/Usagi/issues"
-  },
-  "homepage": "https://github.com/AeroBytesNL/Usagi#readme",
-  "dependencies": {
+  }, "dependencies": {
     "@clickhouse/client": "^1.11.1",
     "mysql2": "^3.14.1"
   }
